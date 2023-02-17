@@ -15,10 +15,10 @@ Spring rest services using mongodb cluster from MongoDb Atlas
 
   
 # If you don't have password please follow
-  . Click on Database Access under Security
-  . Click on Edit
-  . Click on Edit Password
-  . Update the new password and save for later
+    . Click on Database Access under Security
+    . Click on Edit
+    . Click on Edit Password
+    . Update the new password and save for later
   
 
 ## GET /grocery-items/{id}
